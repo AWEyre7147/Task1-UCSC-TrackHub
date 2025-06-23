@@ -3,5 +3,4 @@ shortLabel NonSyn-CDV
 longLabel NonSynonymous Protein Coding Variants
 bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam3/20Dogs-CDS-VAR-convert-s.vcf.gz
 type vcfTabix
-html description.html
-descriptionUrl https://raw.githubusercontent.com/AWEyre7147/Task1-UCSC-TrackHub/refs/heads/main/canFam3/description.txt
+html NonSynonymous-CDV.html
