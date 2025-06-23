@@ -3,4 +3,4 @@ shortLabel FV-Pipeline
 longLabel BattelleSubcontract911755 - Task1 - Functional Variant Pipeline - Track Hub
 genomesFile genomes.txt
 email aweyre90@gmail.com
-descriptionUrl http://genome.cshlp.org/content/early/2017/09/06/gr.222067.117.long
+descriptionUrl https://raw.githubusercontent.com/AWEyre7147/Task1-UCSC-TrackHub/refs/heads/main/description.txt
