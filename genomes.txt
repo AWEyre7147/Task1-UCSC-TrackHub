@@ -1,1 +1,2 @@
-
+genome canFam3
+trackDb https://github.com/AWEyre7147/Task1-UCSC-TrackHub/tree/main/trackDb.txt
