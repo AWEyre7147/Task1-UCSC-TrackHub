@@ -1,5 +1,5 @@
 hub Task1-UCSC-TrackHub
-shortLabel FV_Pipeline
-longLabel Task1_BattelleSubcontract911755_FunctionalVariantPipeline_TrackHub
+shortLabel FV-Pipeline
+longLabel BattelleSubcontract911755 - Task1 - Functional Variant Pipeline - Track Hub
 genomesFile GCF_000002285.3
 email aweyre90@gmail.com
