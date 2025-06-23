@@ -3,4 +3,3 @@ shortLabel FV_Pipeline
 longLabel Task1_BattelleSubcontract911755_FunctionalVariantPipeline_TrackHub
 genomesFile GCF_000002285.3
 email aweyre90@gmail.com
-descriptionUrl
