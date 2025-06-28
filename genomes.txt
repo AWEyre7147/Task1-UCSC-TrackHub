@@ -1,2 +1,2 @@
-genome canFam3
-trackDb canFam3/trackDb.txt
+genome canFam4
+trackDb canFam4/trackDb.txt
