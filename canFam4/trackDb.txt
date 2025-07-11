@@ -1,0 +1,13 @@
+track NonSynonymous-CDV
+shortLabel NonSyn-CDV
+longLabel NonSynonymous Protein Coding Variants
+bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam4/nonsynonymous/34Dogs-CDS-VAR-convert-s.vcf.gz
+type vcfTabix
+html NonSynonymous-CDV.html
+
+track Synonymous-CDV
+shortLabel Syn-CDV
+longLabel Synonymous Protein Coding Variants
+bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam4/synonymous/34Dogs-CDS-VAR2-convert-s.vcf.gz
+type vcfTabix
+html Synonymous-CDV.html
