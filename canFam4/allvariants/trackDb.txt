@@ -1,0 +1,6 @@
+track All-Variants
+shortLabel All-Var
+longLabel All Variants
+bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam4/allvariants/34Dogs-AllVariants-convert-s.vcf.gz
+type vcfTabix
+html AllVariants.html
