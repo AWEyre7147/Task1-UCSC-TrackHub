@@ -1,6 +1,6 @@
 track Dutrow-Ostrander
 shortLabel Dut-Ost
 longLabel Dutrow-Ostrander
-bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam4/dutrowostrander/TestVCF_cf42_s_fix.vcf.gz
+bigDataUrl https://github.com/AWEyre7147/Task1-UCSC-TrackHub/raw/refs/heads/main/canFam4/dutrowostrander/dutrowostrander_cf42_s_fix.vcf.gz
 type vcfTabix
 html DutrowOstrander.html
